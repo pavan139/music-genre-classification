@@ -1,7 +1,7 @@
 # Music Genre Classification
 
 ### Project Description
-This repository contains a music genre classification project that utilizes machine learning techniques to accurately identify music genres. We have tested and analyzed various algorithms, and found that the following two models provide the most accurate results:
+This repository contains a music genre classification project that utilizes machine learning technCancel changesiques to accurately identify music genres. We have tested and analyzed various algorithms, and found that the following two models provide the most accurate results:
 
 1. XGBoost
 2. Convolutional Neural Networks (CNN)
@@ -41,7 +41,7 @@ Place the downloaded "Dataset" folder into the music-genre-classification-main f
 Open the Jupyter Notebook environment and open music-genre-classification.ipynb.
 Run all code cells in the notebook.
 ### Results
-XGBoost outperforms CNN with an accuracy of 87% for the XGBoost model and 72% for the CNN model.
+CVV outperforms XGBoost with an accuracy of 87% for the CNN model and 72% for the XGBoost.
 
 
 ### Contributing
